@@ -44,6 +44,3 @@ En esta sección, enumeraremos herramientas y recursos útiles que pueden ayudar
 ## Licencia
 
 Este repositorio está bajo la licencia [Licencia MIT](LICENSE). Si utilizas el contenido o las guías de este repositorio, te animamos a que cites la fuente y proporciones un enlace a este repositorio.
-
-
-Este repositorio 
